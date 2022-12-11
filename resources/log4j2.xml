@@ -22,7 +22,7 @@
     <!--    Loggers : logs the information. Logger is used to override Root level
     additivity="false" avoids duplicated messages that can come from parent levels. This should be used with Logger-->
     <Loggers>
-        <Logger name="com.myfirstproject.tests.Day12_Log4JTest" level="trace" additivity="false">
+        <Logger name="com.myfirstproject.tests.Day12_Log4JTest" level="trace" additivity="true">
             <AppenderRef ref="Console"/>
             <AppenderRef ref="file"/>
         </Logger>

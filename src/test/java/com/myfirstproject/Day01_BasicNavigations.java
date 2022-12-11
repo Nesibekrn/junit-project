@@ -20,8 +20,8 @@ public class Day01_BasicNavigations {
 
     public static void main(String[] args) throws InterruptedException {
 //        set driver and path
-        System.setProperty("webdriver.chrome.driver","./drivers/chromedriver");//mac
-//        System.setProperty("webdriver.chrome.driver","./drivers/chromedriver.exe");//windows
+ //       System.setProperty("webdriver.chrome.driver","./drivers/chromedriver");//mac
+        System.setProperty("webdriver.chrome.driver","./drivers/chromedriver.exe");//windows
 
 //        create webdriver object
         WebDriver driver = new ChromeDriver();

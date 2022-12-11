@@ -22,7 +22,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42f77903-949c-48de-99cb-71e73953a63e" name="Default Changelist" comment="" />
+    <list default="true" id="42f77903-949c-48de-99cb-71e73953a63e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivers/chromedriver_win32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/HW/hw1/AmazonDropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/HW/hw1/AmazonDropdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day01_BasicNavigations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myfirstproject/Day01_BasicNavigations.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,25 +64,26 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "E:/Nesibe/kurs_dkmn/intellij/junit-project/src/test/java/resources",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Nesibe/kurs_dkmn/intellij/junit-project/src/test/java/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Nesibe\kurs_dkmn\intellij\junit-project\src\test\java\resources" />
       <recent name="E:\Nesibe\kurs_dkmn\intellij\junit-project\src\test\java\com\myfirstproject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\IdeaProjects\junit-project\drivers" />
       <recent name="E:\Nesibe\kurs_dkmn\intellij\junit-project\src\test\java\com\myfirstproject" />
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
@@ -81,7 +91,20 @@
       <recent name="com.myfirstproject.utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day01_TitleVerification">
+  <component name="RunManager" selected="JUnit.Day12_Log4J">
+    <configuration name="Day01_BasicNavigations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day01_BasicNavigations" />
+      <module name="myseleniumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfirstproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Day01_TitleVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day01_TitleVerification" />
       <module name="junit_mine" />
@@ -95,76 +118,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q03.downloadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junit-project" />
+    <configuration name="AmazonDropdown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.practice04.*" />
+          <option name="PATTERN" value="com.HW.hw1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.practice.practice04" />
-      <option name="MAIN_CLASS_NAME" value="com.practice.practice04.Q03" />
-      <option name="METHOD_NAME" value="downloadTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q04.mathTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junit-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.practice04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.practice.practice04" />
-      <option name="MAIN_CLASS_NAME" value="com.practice.practice04.Q04" />
-      <option name="METHOD_NAME" value="mathTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junit-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.practice04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.practice.practice04" />
-      <option name="MAIN_CLASS_NAME" value="com.practice.practice04.Q05" />
+      <option name="PACKAGE_NAME" value="com.HW.hw1" />
+      <option name="MAIN_CLASS_NAME" value="com.HW.hw1.AmazonDropdown" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q05.uploadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junit-project" />
+    <configuration name="Day08_FileUpload.fileUploadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myseleniumproject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.practice04.*" />
+          <option name="PATTERN" value="com.myfirstproject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.practice.practice04" />
-      <option name="MAIN_CLASS_NAME" value="com.practice.practice04.Q05" />
-      <option name="METHOD_NAME" value="uploadTest" />
+      <option name="PACKAGE_NAME" value="com.myfirstproject" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day08_FileUpload" />
+      <option name="METHOD_NAME" value="fileUploadTest" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day12_Log4J" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myseleniumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myfirstproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myfirstproject" />
+      <option name="MAIN_CLASS_NAME" value="com.myfirstproject.Day12_Log4J" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Day12_Log4J" />
+        <item itemvalue="Application.Day01_BasicNavigations" />
+        <item itemvalue="JUnit.Day08_FileUpload.fileUploadTest" />
+        <item itemvalue="JUnit.AmazonDropdown" />
         <item itemvalue="Application.Day01_TitleVerification" />
-        <item itemvalue="JUnit.Q05.uploadTest" />
-        <item itemvalue="JUnit.Q05" />
-        <item itemvalue="JUnit.Q04.mathTest" />
-        <item itemvalue="JUnit.Q03.downloadTest" />
       </list>
     </recent_temporary>
   </component>
